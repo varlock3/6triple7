@@ -3,4 +3,4 @@ owner=446784051320193035
 prefix=6
 game=Triple 7
 stayinchannel=true
-songinstatus=true
+songinstatus=false
