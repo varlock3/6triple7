@@ -1,6 +1,6 @@
-token=NTAwMjMxMTA2ODg5NjQ2MDgw.DqH0EA.UObYO7c7Snny6ItJPqdjm5gbvfg
-owner=421210436646731776
-prefix=1
-game=Tybe 1help
+token=NTA2MDU4MTE4MTk5NzcxMTM3.Drcm5A.h5WXhnkvUYmqybjDQwHiGECtq9o
+owner=446784051320193035
+prefix=6
+game=Triple 7
 stayinchannel=true
 songinstatus=true
