@@ -1,4 +1,4 @@
-token=NTA5MDYyNTYxOTc1NjMxODgz.DsIWpQ.AT7FZnVYKBlpfCimV4wiGZGWmKI
+token=NTA5MDYyNTYxOTc1NjMxODgz.DsIXvg.D_xfIYUA6ID82mzknOCfikCvqzo
 owner=366922826755866628
 prefix=g
 game=Tybe ghelp
