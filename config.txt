@@ -1,6 +1,6 @@
-token=NTA2MDU4MTE4MTk5NzcxMTM3.Drcm5A.h5WXhnkvUYmqybjDQwHiGECtq9o
-owner=446784051320193035
-prefix=6
-game=Triple 7
+token=NTA5MDYyNTYxOTc1NjMxODgz.DsIWpQ.AT7FZnVYKBlpfCimV4wiGZGWmKI
+owner=366922826755866628
+prefix=g
+game=Tybe ghelp
 stayinchannel=true
 songinstatus=false
